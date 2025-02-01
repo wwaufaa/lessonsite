@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: cadetblue;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+header a {
+    background-color: white;
+    text-decoration: none;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 5px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    border: 3px solid cadetblue;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: cadetblue;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer p {
+    background-color: white;
+    border-radius: 3px;
+    padding: 5px
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(159, 195, 195);
+    padding: 10px;
+    margin: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    margin: 25px;
+    padding: 5px;
+    border-radius: 9px;
+}
+
+select {
+    border: 2px solid black;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+select option {
+    color: rgb(50, 102, 104);
+}
+
+.production {
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.text {
+    margin: 1px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(34, 81, 82);
+    font-size: 30px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+.ssilki {
+   font-size: 20px;
+   text-decoration: none;
+   border: 3px solid cadetblue;
+   color: black;
+   padding: 5px;
+   margin: 5px;
+   border-radius: 7px;
+}
