@@ -3,71 +3,90 @@ body {
 }
 
 header {
-    background-color: navy;
-    padding: 20px;
+    background-color: cadetblue;
+    padding: 8px;
+    border-radius: 10px;
 }
 
 header a {
-    color: black;
     background-color: white;
-    font-size: 20px;
     text-decoration: none;
-    border: 1px solid white;
-    border-radius: 10px;
-    padding: 5px;
-    margin: 30px;
-}
-
-header img {
-    width: 200px;
-    height: 60px;
-}
-
-.sp_button {
-    background-color: #2adede;
-    border: 1px solid #2adede;
+    padding: 4px;
+    margin: 4px;
+    border-radius: 5px;
+    color: black;
 }
 
 h1 {
     text-align: center;
-    font-size: 60px;
-    border-bottom: 2px solid navy;
-    font-weight: normal;
-    padding-bottom: 5px;
-}
-
-h2 {
-    background-color: #2adede;
-    color: blueviolet;
-    font-size: 30px;
-    padding: 10px;
-}
-
-main p {
-    font-size: 20px;
-    padding: 20px;
-    margin: 20px;
-    border: 1px solid navy;
-    border-radius: 15px;
-    text-align: justify;
-}
-
-p img {
-    height: 150px;
-    width: 200px;
-}
-
-.nb_news {
-    background-color: navy;
-    color: white;
+    border: 3px solid cadetblue;
+    border-radius: 10px;
 }
 
 footer {
-    background-color: #8fddf2;
-    padding: 10px;
+    background-color: cadetblue;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
 }
 
 footer p {
     background-color: white;
+    border-radius: 3px;
+    padding: 5px
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(159, 195, 195);
+    padding: 10px;
+    margin: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    margin: 25px;
     padding: 5px;
-} 
+    border-radius: 9px;
+}
+
+select {
+    border: 2px solid black;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+select option {
+    color: rgb(50, 102, 104);
+}
+
+.production {
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.text {
+    margin: 1px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(34, 81, 82);
+    font-size: 30px;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+.ssilki {
+   font-size: 20px;
+   text-decoration: none;
+   border: 3px solid cadetblue;
+   color: black;
+   padding: 5px;
+   margin: 5px;
+   border-radius: 7px;
+}
